@@ -1,0 +1,16 @@
+{
+  "name": "symfony/jwt-token",
+  "type": "library",
+  "license": "MIT",
+  "description": "Jwt token",
+  "require": {
+    "php": "^7.4"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Symflex\\Library\\Jwt\\": "src/"
+    }
+  }
+}
