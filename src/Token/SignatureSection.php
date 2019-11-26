@@ -45,6 +45,6 @@ class SignatureSection implements Signature
      */
     public function __toString()
     {
-        return $this->signature;
+        return $this->encoded;
     }
 }
